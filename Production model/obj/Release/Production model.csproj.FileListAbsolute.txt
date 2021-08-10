@@ -1,0 +1,10 @@
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\bin\Release\Production model.exe.config
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\bin\Release\Production model.exe
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\bin\Release\Production model.pdb
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\obj\Release\Production model.csprojAssemblyReference.cache
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\obj\Release\Production_model.Form1.resources
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\obj\Release\Production_model.Properties.Resources.resources
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\obj\Release\Production model.csproj.GenerateResource.cache
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\obj\Release\Production model.csproj.CoreCompileInputs.cache
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\obj\Release\Production model.exe
+C:\Users\Atian\OneDrive\Рабочий стол\ИС\Production model\obj\Release\Production model.pdb
